@@ -1,0 +1,207 @@
+
+.black-gallery {
+    margin-top: 48px;
+    padding: 24px;
+    background-color: #050505;
+}
+
+.img-black-gallery {
+    width: 100%;
+    height: 180px;
+    margin: 10px auto;
+    border-radius: 30px;
+    border: 1px solid #FBFBFB;
+}
+
+.img-black-gallery-img-1 {
+    background-image: url("../IMG/sang/tala/IMG_20220521_114736_298.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-color: #FBFBFB;
+}
+
+.img-black-gallery-img-2 {
+    background-image: url("../IMG/sang/mes/3-9.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-color: #FBFBFB;
+}
+
+.img-black-gallery-img-3 {
+    background-image: url("../IMG/sang/sorb/manganese-metal-ferroalloy-silicon.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-color: #FBFBFB;
+}
+
+.img-black-gallery-img-4 {
+    background-image: url("../IMG/sang/hmatit/IMG-20210920-WA0018.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-color: #FBFBFB;
+}
+
+.img-black-gallery-img-5 {
+    background-image: url("../IMG/sang/maganez/0000757547_resized_manganesepic.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-color: #FBFBFB;
+}
+
+.img-black-gallery-img-6 {
+    background-image: url("../IMG/sang/manganit/Figure_5.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-color: #FBFBFB;
+}
+
+.cantent-black-gallery {
+    text-align: center;
+    font-size: 16px;
+    color: #FBFBFB;
+    transition: all 0.6s;
+}
+
+.cantent-black-gallery .col-sm-6:hover {
+    color: #EBD96B;
+    cursor: pointer;
+    transition: 0.6s;
+    
+}
+
+.cantent-black-gallery .col-sm-6:hover .img-black-gallery {
+    border: 3px solid #EBD96B;
+    cursor: pointer;
+    transition: 0.6s;
+}
+
+.main-slider-box {
+    text-align: right;
+    font-size: 18px;
+}
+
+.main-slider-box p {
+    margin: 48px 0 24px 0;
+}
+
+.slider-header {
+    position: absolute;
+    top: 24px;
+    text-align: center;
+    width: 100%;
+}
+
+.slider-header span {
+    font-size: 18px;
+    color: #EBD96B;
+    background-color: rgba(0, 0, 0, 0.6);
+    border-radius: 5px;
+    padding: 8px 16px;
+}
+
+.slider-box {
+    background-color: #EBD96B;
+    border-radius: 45px;
+}
+
+.main-img-prudoct a {
+    text-decoration: none;
+}
+
+.main-carousel-icon {
+    width: 50px;
+    height: 50px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: black;
+    border-radius: 10px;
+}
+
+.main-black-box {
+    background-color: #000000;
+    color: #FBFBFB;
+    margin-top: 48px;
+}
+
+
+.main-black-box .text {
+    display: flex;
+    flex-direction: column;
+    align-items: end;
+    padding: 10px;
+}
+
+.main-black-box .text p {
+    font-size: 24px;
+    margin-bottom: 24px;
+}
+
+.main-black-box .text span {
+    font-size: 16px;
+    margin-bottom: 18px;
+}
+
+.main-black-box button {
+    padding: 12px;
+    background-color: #EBD96B;
+    color: #050505;
+    border-radius: 15px;
+    transition: all 0.6s;
+}
+
+.main-black-box button:hover {
+    background-color: #FBFBFB;
+    color: #050505;
+    border: 1px solid #050505;
+    cursor: pointer;
+    transition: 0.6s;
+}
+
+.main-img-prudoct {
+    text-align: right;
+    color: #050505;
+    margin-top: 48px;
+}
+
+.main-img-prudoct p {
+    font-size: 16px;
+    font-weight: 600;
+    margin: 12px 0 12px 0;
+}
+
+.main-img-prudoct span {
+    font-size: 16px;
+    color: #979797;
+}
+
+.main-img-prudoct span:hover {
+    font-size: 16px;
+    color: #BB9700;
+    cursor: pointer;
+}
+
+.main-img-prudoct .img-prudoct {
+    border: 1px solid #FBFBFB;
+    background-color: #050505;
+    border-radius: 30px;
+    height: 340px;
+}
+
+.main-img-prudoct .prudoct-1 {
+    background-image: url("../IMG/sang/hmatit/i-1024x685-1.jpeg");
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.main-img-prudoct .prudoct-2 {
+    background-image: url("../IMG/sang/mes/20181014103425219.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.main-img-prudoct .prudoct-3 {
+    background-image: url("../IMG/sang/ahan/قیمت-فروش-کنسانتره-سنگ-آهن-1.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+}

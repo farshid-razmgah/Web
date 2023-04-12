@@ -1,0 +1,49 @@
+<!doctype html>
+<html lang="en">
+
+<head>
+    <!-- Required meta tags -->
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <!-- Bootstrap CSS -->
+    <link href="./CSS/bootstrap.min.css" rel="stylesheet">
+    <link href="./CSS/index.css" rel="stylesheet">
+    <link href="./CSS/Main.css" rel="stylesheet">
+    <title>Sadra Sang</title>
+</head>
+
+<body>
+    <div class="main-page">
+
+        <div class="container shadow min-vh-100 py-2">
+            <div class="container network_wrapper col-sm p-2 ">
+                <div class="card">
+                    <div class="card-header">
+                        <h5 class="card-title">Network Settings</h5>
+                        <ul class="nav nav-tabs card-header-tabs" data-bs-tabs="tabs">
+                            <li class="nav-item">
+                                <a class="nav-link active" aria-current="true" data-bs-toggle="tab" href="#dhcp">DHCP</a>
+                            </li>
+                            <li class="nav-item">
+                                <a class="nav-link" data-bs-toggle="tab" href="#static">Static</a>
+                            </li>
+                        </ul>
+                    </div>
+                    <form class="card-body tab-content">
+                        <div class="tab-pane active" id="dhcp">
+                            <p class="card-text">Change DHCP Network settings.</p>
+                        </div>
+                        <div class="tab-pane" id="static">
+                            <p class=" card-text">Change Static Network settings.</p>
+                        </div>
+                        <button class="btn btn-primary" type="submit">Save</button>
+                    </form>
+                </div>
+            </div>
+        </div>
+
+    </div>
+    <script src="./JS/bootstrap.bundle.min.js"></script>
+</body>
+
+</html>

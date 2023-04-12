@@ -1,0 +1,64 @@
+.Header-box {
+    background-color: #00FF7F !important;
+}
+
+.cantent-gallery{
+    margin: 48px 0 48px 0;
+}
+
+.gallery-areng{
+    margin: 0px 0 24px 0;
+    text-align: right;
+    color: #BB9700;
+    padding-top: 24px;
+    border-top: 1px solid #BB9700;
+}
+
+.img-black-gallery {
+    width: 100%;
+    height: 180px;
+    margin: 10px auto;
+    border-radius: 30px;
+}
+
+.img-black-gallery-img-1 {
+    background-image: url("../../IMG/sang/maganez/14848694-2018-9-12-19-43-55.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-color: #EBD96B;
+}
+
+.img-black-gallery-img-2 {
+    background-image: url("../../IMG/sang/mes/3-9.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-color: #EBD96B;
+}
+
+.img-black-gallery-img-3 {
+    background-image: url("../../IMG/sang/sorb/manganese-metal-ferroalloy-silicon.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-color: #EBD96B;
+}
+
+.img-black-gallery-img-4 {
+    background-image: url("../../IMG/sang/hmatit/IMG-20210920-WA0018.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-color: #EBD96B;
+}
+
+.img-black-gallery-img-5 {
+    background-image: url("../../IMG/sang/maganez/0000757547_resized_manganesepic.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-color: #EBD96B;
+}
+
+.img-black-gallery-img-6 {
+    background-image: url("../../IMG/sang/manganit/Figure_5.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-color: #EBD96B;
+}

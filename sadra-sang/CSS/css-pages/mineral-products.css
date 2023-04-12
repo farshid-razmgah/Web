@@ -1,0 +1,112 @@
+.Header-box {
+    background-color: #fc3b00 !important;
+}
+
+.card-header-custom {
+    padding: 12px;
+    margin-bottom: 0;
+    background-color: #050505;
+}
+
+.nav-tabs .nav-item.show .nav-link,
+.nav-tabs .nav-link.active {
+    color: #BB9700 !important;
+    background-color: #050505;
+    border: none !important;
+    border-bottom: 2px solid #BB9700 !important;
+}
+
+.nav-link:focus,
+.nav-link:hover {
+    color: #BB9700;
+}
+
+.nav-tabs .nav-link:focus,
+.nav-tabs .nav-link:hover {
+    border: none !important;
+    border-bottom: 2px solid #BB9700 !important;
+    isolation: isolate;
+}
+
+:focus-visible {
+    outline: none !important;
+}
+
+
+.card {
+    border: none !important;
+}
+
+.card-header-custom ul li a {
+    text-decoration: none;
+    color: #FBFBFB;
+}
+
+.card-custom {
+    position: relative;
+    display: flex;
+    flex-direction: column;
+    min-width: 0;
+    word-wrap: break-word;
+    background-color: #FBFBFB;
+}
+
+/* -------------------------- */
+
+.img-black-gallery {
+    width: 100%;
+    height: 180px;
+    margin: 10px auto;
+    border-radius: 30px;
+    border: 1px solid #FBFBFB;
+}
+
+.img-black-gallery-img-1 {
+    background-image: url("../../IMG/sang/tala/IMG_20220521_114736_298.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-color: #FBFBFB;
+}
+
+.img-black-gallery-img-2 {
+    background-image: url("../../IMG/sang/mes/3-9.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-color: #FBFBFB;
+}
+
+.img-black-gallery-img-3 {
+    background-image: url("../../IMG/sang/sorb/manganese-metal-ferroalloy-silicon.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-color: #FBFBFB;
+}
+
+.img-black-gallery-img-4 {
+    background-image: url("../../IMG/sang/hmatit/IMG-20210920-WA0018.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-color: #FBFBFB;
+}
+
+.img-black-gallery-img-5 {
+    background-image: url("../../IMG/sang/maganez/0000757547_resized_manganesepic.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-color: #FBFBFB;
+}
+
+.img-black-gallery-img-6 {
+    background-image: url("../../IMG/sang/manganit/Figure_5.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-color: #FBFBFB;
+}
+
+.cantent-gallery {
+    text-align: center;
+}
+
+.cantent-gallery span{
+   font-size: 14px;
+}
